@@ -2,7 +2,7 @@ Haskell Style Guide
 ============================
 > This style guide is mostly a copy of [Johan Tibell's guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
 > with some restructurization, elaboration on some topics and some additions.
-> This style guide's aims are code beauty, readability and understandability.
+> This style guide's aims are code beauty, readability and understandability. 
 
 
 Principles
